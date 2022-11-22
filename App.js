@@ -28,6 +28,6 @@ const styles = StyleSheet.create({
 		borderColor: "#cccccc",
 		width: "80%",
 		marginRight: 8,
-		padding: 10,
+		padding: 8,
 	},
 });
